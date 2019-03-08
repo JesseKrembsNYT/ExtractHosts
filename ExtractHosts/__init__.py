@@ -34,7 +34,7 @@ tlds = {"AC", "ACADEMY", "ACTOR", "AD", "AE", "AERO", "AF", "AG", "AGENCY", "AI"
         "FUTBOL", "GA", "GALLERY", "GB", "GD", "GE", "GF", "GG", "GH", "GI", "GIFT", "GL", "GLASS", "GM", "GN", "GOV",
         "GP", "GQ", "GR", "GRAPHICS", "GS", "GT", "GU", "GUITARS", "GURU", "GW", "GY", "HK", "HM", "HN", "HOLDINGS",
         "HOLIDAY", "HOUSE", "HR", "HT", "HU", "ID", "IE", "IL", "IM", "IMMOBILIEN", "IN", "INDUSTRIES", "INFO", "INK",
-        "INSTITUTE", "INT", "INTERNATIONAL", "IO", "IQ", "IR", "IS", "IT", "JE", "JM", "JO", "JOBS", "JP", "KAUFEN",
+        "INSTITUTE", "INT", "INTERNATIONAL", "INTERNAL", "IO", "IQ", "IR", "IS", "IT", "JE", "JM", "JO", "JOBS", "JP", "KAUFEN",
         "KE", "KG", "KH", "KI", "KIM", "KITCHEN", "KIWI", "KM", "KN", "KOELN", "KP", "KR", "KRED", "KW", "KY", "KZ",
         "LA", "LAND", "LB", "LC", "LI", "LIGHTING", "LIMO", "LINK", "LK", "LR", "LS", "LT", "LU", "LUXURY", "LV", "LY",
         "MA", "MAISON", "MANAGEMENT", "MANGO", "MARKETING", "MC", "MD", "ME", "MENU", "MG", "MH", "MIL", "MK", "ML",
